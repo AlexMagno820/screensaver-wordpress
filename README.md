@@ -1,5 +1,5 @@
 # screensaver-wordpress
-1° step --> scaricare lo script modificato allegato alla mail , dentro ci saranno i commenti sulle parti più importati come cambiare il percorso del video , attivare/disattivare il loop oppure mutare il video (per questo script il video deve essere in locale , se si vuole utilizzare un video da youtube utilizzare l'altro script chiamato "screensaveryoutube.js)
+1° step --> scaricare gli script modificati all'interno della repo  , dentro ci saranno i commenti sulle parti più importati come cambiare il percorso del video , attivare/disattivare il loop oppure mutare il video (i 2 script sono diversi dato che lo script "screensaver.js" ammette solo video in locale , l'altro invece ammette solo video di youtube)
 
 2° step --> inserire il link del file nella pagina html: 
 <script src="script/screensaver.js" timeout="100000000"></script>
